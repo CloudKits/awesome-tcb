@@ -6,12 +6,27 @@
 
 **由于目录的跳转问题，目录和标题需用英文。而项目的介绍会采用中文。**
 
+## 目录
+
+- [文档](#documents)
+- [电子书](#e-book)
+- [课程](#course)
+- [博客](#blog)
+- [文章](#articles)
+- [Demo](#demo)
+- [库](#library)
+- [项目](#project)
+- [代码片段](#snippet)
+- [邮件列表](#newsletter)
+- [贡献指南](#contributing)
+- [LICENSE](#license)
+
 ## Documents
 > 云开发的各种文档
 
 - [微信小程序·云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
-## 电子书
+## E-Book
 > 云开发相关的电子书
 
 - [小程序云开发最佳实践](https://github.com/TencentCloudBase/mp-book)
