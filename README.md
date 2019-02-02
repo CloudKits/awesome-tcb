@@ -14,6 +14,7 @@
 - [博客](#blog)
 - [文章](#articles)
 - [Demo](#demo)
+- [模板](#template)
 - [库](#library)
 - [项目](#project)
 - [代码片段](#snippet)
@@ -82,6 +83,11 @@
 - [小程序·云开发 模板消息 Demo](https://github.com/TencentCloudBase/tcb-demo-message)
 - [小程序·云开发 音视频 Demo](https://github.com/TencentCloudBase/tcb-demo-video)
 - [小程序·云开发 用户登陆 Demo](https://github.com/TencentCloudBase/tcb-demo-user)
+
+## Template
+> 云开发相关的模板
+
+- [wepy-tcb-demo: 小程序·云开发 x WePY 模板](https://github.com/cloudkits/wepy-tcb-demo)
 
 ## Library
 > 云开发相关的依赖库
