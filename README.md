@@ -102,6 +102,10 @@
 
 - [Awesome TCB](https://tinyletter.com/awesometcb)
 
+## Contributing
+
+参与项目请查看[contributing](contributing.md)
+
 ## LICENSE
 
 本 Repo 内的文本内容以[署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-SA 3.0 CN)
