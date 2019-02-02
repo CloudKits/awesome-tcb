@@ -1,4 +1,4 @@
-# awesome-tcb
+# Awesome TCB 
 
 本列表旨在聚合和推广优秀的云开发项目。**欢迎也希望大家积极提交PR。让我们共同打造它！**
 
@@ -37,10 +37,23 @@
 - [微信小程序开发入门：从 0 到 1 实现天气小程序](https://juejin.im/book/5b70f101e51d456669381803)
 - [小程序与云开发实战 36 讲](https://gitbook.cn/gitchat/column/5b7f5f06a62b70638ef61319)
 
+## Blog
+
+- [掘金·小程序云开发](https://juejin.im/tag/%E5%B0%8F%E7%A8%8B%E5%BA%8F%C2%B7%E4%BA%91%E5%BC%80%E5%8F%91)
+
 ## Articles
 > 云开发相关的各种文章
 
+- [云开发初探 —— 更简便的小程序开发模式](https://segmentfault.com/a/1190000016520500)
 - [小程序云开发从入门到弃坑](https://gitbook.cn/gitchat/activity/5b7f923e7512eb3f5d6c4cda)
+- [小程序·云开发 项目开发经验分享](https://segmentfault.com/a/1190000016138249)
+- [小程序云开发实战系列01--云环境设置](https://segmentfault.com/a/1190000017463772)
+- [小程序云开发实战系列02--云数据库](https://segmentfault.com/a/1190000017784033)
+- [使用云开发以及vant组件库搭建的一个收账小程序](https://segmentfault.com/a/1190000017533508)
+- [mpvue中使用小程序云开发总结](https://segmentfault.com/a/1190000016641238)
+- [用微信小程序云开发做一个错误日志](https://segmentfault.com/a/1190000017472022)
+- [【小程序+云开发】实战：一天搭建小型论坛](https://segmentfault.com/a/1190000017135292)
+
 
 ## Demo
 > 云开发相关的 Demo 
@@ -76,10 +89,16 @@
 - [吸猫小程序](https://github.com/godbasin/kitty-wxapp)
 - [小程序云开发实现朋友圈](https://github.com/xiaozhaoqi/moments)
 - [mpvue + 小程序云开发项目](https://github.com/yametehmeepo/mpvue_books)
+- [小程序云开发实现的收账小程序](https://github.com/GzhiYi/accounting-together)
+
 
 ## Snippet
 > 与云开发相关的短代码
 
+## Newsletter
+> 云开发相关的邮件订阅
+
+- [Awesome TCB](https://tinyletter.com/awesometcb)
 
 ## LICENSE
 
