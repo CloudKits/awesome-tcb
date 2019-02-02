@@ -119,7 +119,7 @@
 
 ## Contributing
 
-参与项目请查看[contributing](contributing.md)
+参与项目请查看 [CONTRIBUTING](contributing.md)
 
 ## LICENSE
 
